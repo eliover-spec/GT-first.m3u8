@@ -1,11 +1,16 @@
 #EXTM3U
+
 #EXTINF:-1, Guadalupe Media Belize
 https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
+
 #EXTINF:-1,CANAL 2 
 http://200.57.28.141:8540/play/a041
+
 #EXTINF:-1,CANAL 3 GUA http://200.57.28.141:8540/play/a03z
+
 #EXTINF:-1,CANAL 4 ESA 
 http://200.57.28.141:8540/play/a040
+
 #EXTINF:-1,CANAL 5 EL LIDER 
 http://200.57.28.141:8540/play/a042
 #EXTINF:-1,CANAL 6 ESV 
