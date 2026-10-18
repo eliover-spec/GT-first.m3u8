@@ -1,32 +1,31 @@
 #EXTM3U
-#EXTINF:-1,CANAL UNO 
-http://200.57.28.141:8540/play/a0hg%20
+#EXTINF:-1, Guadalupe Media Belize
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 #EXTINF:-1,CANAL 2 
-http://200.57.28.141:8540/play/a041%20
-#EXTINF:-1,CANAL 3 GUA 
-http://200.57.28.141:8540/play/a03z%20
+http://200.57.28.141:8540/play/a041
+#EXTINF:-1,CANAL 3 GUA http://200.57.28.141:8540/play/a03z
 #EXTINF:-1,CANAL 4 ESA 
-http://200.57.28.141:8540/play/a040%20
+http://200.57.28.141:8540/play/a040
 #EXTINF:-1,CANAL 5 EL LIDER 
-http://200.57.28.141:8540/play/a042%20
+http://200.57.28.141:8540/play/a042
 #EXTINF:-1,CANAL 6 ESV 
-http://200.57.28.141:8540/play/a02v%20
+http://200.57.28.141:8540/play/a02v
 #EXTINF:-1,CANAL 7 GT
-http://200.57.28.141:8540/play/a03y%20
+http://200.57.28.141:8540/play/a03y
 #EXTINF:-1,CANAL 8 
 http://200.57.28.141:8540/play/a00s
 #EXTINF:-1,Canal del Congreso 
-http://200.57.28.141:8540/play/a059%20
+http://200.57.28.141:8540/play/a059
 #EXTINF:-1,CANAL 10 NIC
 http://200.57.28.141:8540/play/a0l5
 #EXTINF:-1,CANAL 11 GT
-http://200.57.28.141:8540/play/a02u%20
+http://200.57.28.141:8540/play/a02u
 #EXTINF:-1,CANAL 12 NIC 
 http://200.57.28.141:8540/play/a01e
 #EXTINF:-1,CANAL 13 GUA 
-http://200.57.28.141:8540/play/a02t%20
+http://200.57.28.141:8540/play/a02t
 #EXTINF:-1,CANAL 14 MX 
-http://200.57.28.141:8540/play/a0f3%20
+http://200.57.28.141:8540/play/a0f3
 #EXTINF:-1,Digital 15 - RD 
 http://200.57.28.141:8540/play/a030
 #EXTINF:-1,TV Maya Guatemala
@@ -38,29 +37,28 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1,A3series 
 http://154.12.107.98:8000/play/a013
 #EXTINF:-1,AZTECA A+ 
-http://200.57.28.141:8540/play/a0hj%20
+http://200.57.28.141:8540/play/a0hj
 #EXTINF:-1,CANAL ANTIGUA 
-http://200.57.28.141:8540/play/a03w%20
+http://200.57.28.141:8540/play/a03w
 #EXTINF:-1,CANAL 22 
-http://200.57.28.141:8540/play/a0f1%20
+http://200.57.28.141:8540/play/a0f1
 #EXTINF:-1, TN23
-https://d3qt8k30mpy8xx.cloudfront.net/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/by1ualyjwslr/master.m3u8
 #EXTINF:-1,GUATEVISION 
-http://200.57.28.141:8540/play/a019%20
+http://200.57.28.141:8540/play/a019
 #EXTINF:-1,TVM25 - ESA 
-http://200.57.28.141:8540/play/a05c%20
+http://200.57.28.141:8540/play/a05c
 #EXTINF:-1,RCN - GUA 
-http://200.57.28.141:8540/play/a05a%20
+http://200.57.28.141:8540/play/a05a
 #EXTINF:-1 group-title="-",CANAL 27 GT
 https://ch1-c27.duin.dev/hls/stream.m3u8
 #EXTINF:-1, Enlace USA
 https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1, AmigosTV GT
-https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8%20
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:-1, COLOR VISION GUA 
 http://200.57.28.141:8540/play/a046
-#EXTINF:-1, Guadalupe Media Belize
-https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
+
 #EXTINF:-1 group-title="-", 3ABN LATINO
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1,3ABN International
@@ -224,9 +222,9 @@ http://45.5.118.152:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="-", Telehit
 http://45.5.118.152:8000/play/a08r/index.m3u8
 #EXTINF:-1,HTV 
-http://200.57.28.141:8540/play/a03p%20
+http://200.57.28.141:8540/play/a03p
 #EXTINF:-1,CONCERT CHANNEL 
-http://200.57.28.141:8540/play/a05q%20
+http://200.57.28.141:8540/play/a05q
 #EXTINF:-1, ROCK TV
 http://45.5.118.152:8000/play/a03h/index.m3u8
 #EXTINF:-1,5.Star.Max 
