@@ -222,8 +222,7 @@ http://45.5.118.152:8000/play/a092/index.m3u8
 http://45.5.118.152:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="-",La voz de Maria
 http://45.5.118.152:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="-",NACION TV
-http://45.5.118.152:8000/play/a07y/index.m3u8
+
 #EXTINF:-1 group-title="-",Studio Universal HD
 http://45.5.118.152:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="-",TNT Novelas
