@@ -333,8 +333,7 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/57376
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/18925
 #EXTINF:-1,US American Heroes Channel 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/10456
-#EXTINF:-1,Canada Animal Planet 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/57377
+
 #EXTINF:-1,US Animal Planet 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/17870
 #EXTINF:-1,US Antenna TV 
@@ -384,8 +383,7 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/10476
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9815
 #EXTINF:-1,US CNN 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/1817
-#EXTINF:-1,US CNN 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/104884
+
 #EXTINF:-1,US Comedy Central (East) (F)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/7466
 #EXTINF:-1,US Comet (S)
@@ -394,16 +392,14 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/66244
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9229
 #EXTINF:-1,US Cozi (H)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/11868
-#EXTINF:-1,US Decades 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/20189
+
 #EXTINF:-1,US Destination America (A)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/14222
 #EXTINF:-1,Canada Discovery Channel 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/57252
 #EXTINF:-1,US Discovery Channel (East)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/46720
-#EXTINF:-1,US Discovery Channel East 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/9811
+
 #EXTINF:-1,USA: DISCOVERY FAMILY
 http://nocable.cc:8080/1017@sbm.com/8080@4021/10538
 #EXTINF:-1,USA: Discovery Life HD
