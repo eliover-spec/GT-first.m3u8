@@ -154,6 +154,8 @@ http://45.5.118.152:8000/play/a01w/index.m3u8
 http://45.5.118.152:8000/play/a04h/index.m3u8
 #EXTINF:-1, H2 Lat
 http://154.12.107.98:8000/play/a08y
+#EXTINF:-1,Wild Earth
+https://wildearth-xumo.amagi.tv/master.m3u8
 
 #EXTINF:-1, STAR CHANNEL Lat
 http://45.5.118.152:8000/play/a04m/index.m3u8
