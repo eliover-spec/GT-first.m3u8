@@ -79,18 +79,21 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="-", Distrito Comedia
 http://45.186.106.207:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="-", A+ Guate HD
-http://179.60.224.196:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="-", A+ Guate 
+http://45.5.117.57:8200/play/a0e6/index.m3u8
+
 #EXTINF:-1, Canal Azteca - GUA
 http://45.5.118.152:8000/play/a03v/index.m3u8
 #EXTINF:-1, AZTECA 7
-http://38.65.175.116:8000/play/a0fm/index.m3u8
+http://200.57.28.141:8540/play/a0hi
+
 #EXTINF:-1, El Gourmet
 http://45.5.118.152:8000/play/a03g/index.m3u8
 #EXTINF:-1, Multipremier
 http://45.5.118.152:8000/play/a096/index.m3u8
 #EXTINF:-1, 5mexicano
-http://38.65.175.116:8000/play/a0fl/index.m3u8
+http://200.57.28.141:8540/play/a0hk 
+
 #EXTINF:-1, Las Estrellas México
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1, KANAL D DRAMA
@@ -107,7 +110,7 @@ http://45.5.118.152:8000/play/a089/index.m3u8
 http://179.60.224.196:8000/play/a0ex/index.m3u8?hls
 #EXTINF:-1, Animal Planet HD Lat
 http://45.5.118.152:8000/play/a09l/index.m3u8
-#EXTINF:-1, Discovery Turbo lag
+#EXTINF:-1, Discovery Turbo Lat
 http://45.5.118.152:8000/play/a05j/index.m3u8
 #EXTINF:-1, National Geographic Lat
 http://45.5.118.152:8000/play/a01w/index.m3u8
@@ -159,8 +162,6 @@ http://45.5.118.152:8000/play/a09n/index.m3u8
 http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1, Multicinema
 http://45.5.118.152:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="-", Stingray Music
-http://45.5.118.152:8000/play/a0a6/index.m3u8
 #EXTINF:-1, DHE HD Lat
 http://45.5.118.152:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="-",Azteca Deportes
@@ -176,7 +177,8 @@ http://45.228.233.222:8000/play/a02v
 #EXTINF:-1, FOX Premiere League 
 http://190.61.101.11:7050/play/a08w/index.m3u8?hls
 #EXTINF:-1, TUDN
-http://179.60.224.196:8000/play/a0j0/index.m3u8?hls
+http://nocable.cc:8080/1017@sbm.com/8080@4021/11885
+
 #EXTINF:-1, TUDN MX
 http://190.61.101.11:7050/play/a04m/index.m3u8?hls
 #EXTINF:-1, TUDN Zoom MX
@@ -215,10 +217,12 @@ http://45.5.118.152:8000/play/a02j/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1, TELEMUNDO 51 MIAMI
 http://nocable.cc:8080/1017@sbm.com/8080@4021/56410
-#EXTINF:-1, Telemundo West
-http://168.228.44.241:9997/play/a07g/index.m3u8
 #EXTINF:-1,US Latin Galavision
 http://nocable.cc:8080/1017@sbm.com/8080@4021/58770
+
+#EXTINF:-1,US Latin UNICABLE
+http://200.57.28.141:8540/play/a0ms 
+
 #EXTINF:-1,US Univision (East)
 http://nocable.cc:8080/1017@sbm.com/8080@4021/15336
 #EXTINF:-1 group-title="-", CALI TV
@@ -288,7 +292,8 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/21896
 #EXTINF:-1,Canada Cartoon Network
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/57380
 #EXTINF:-1,US Cartoon Network 
-http://84.17.50.102/cartoonnetwork/mpegts
+http://nocable.cc:8080/1017@sbm.com/8080@4021/46708
+
 #EXTINF:-1,US CBS (KCAL) Los Angeles (F)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/120654
 #EXTINF:-1,US CBS (WTVF) Nashville 
@@ -350,7 +355,8 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/9802
 #EXTINF:-1,ESPN2
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/2210
 #EXTINF:-1,ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+http://nocable.cc:8080/1017@sbm.com/8080@4021/10255
+
 #EXTINF:-1,FOOD NETWORK
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1,.NY
@@ -389,8 +395,6 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/10289
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9264
 #EXTINF:-1,HBO 2
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9816
-#EXTINF:-1,US HBO Comedy (East) 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/17773
 #EXTINF:-1,US HBO SIGNATURE (East) 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9266
 #EXTINF:-1,US HBO Zone (East) (H)
@@ -427,8 +431,6 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/9275
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/2208
 #EXTINF:-1,USA: LOGO TV
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/20862
-#EXTINF:-1,US Marquee Sports Network (HD) (A)
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/13379
 #EXTINF:-1,US MAV TV (F)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/20977
 #EXTINF:-1,US MeTV Network East
@@ -441,8 +443,6 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/10399
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/1829
 #EXTINF:-1,US MSG Plus 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9276
-#EXTINF:-1,MSG.(Madison.Square.Gardens)
-http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1,US MSNBC
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9296
 #EXTINF:-1, MTV
@@ -455,7 +455,7 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/11664
 #EXTINF:-1,US National Geographic 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/46722
-#EXTINF:-1,US National Geographic (East) 
+#EXTINF:-1,US National Geographic (East)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9277
 #EXTINF:-1,USA: NBA TV
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/20073
@@ -463,8 +463,6 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/20073
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/46687
 #EXTINF:-1,US Golf Channel 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9806
-#EXTINF:-1,US NESN 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/46726
 #EXTINF:-1,US Newsmax TV 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/18939
 #EXTINF:-1,US Nickelodeon East 
@@ -472,7 +470,8 @@ http://84.17.50.102/nickelodeon/mpegts
 #EXTINF:-1,US Nick Jr 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/46710
 #EXTINF:-1,US Nick JR East (A) 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/9807
+http://206.212.244.71:
+8080/1017@sbm.com/8080@4021/9807
 #EXTINF:-1,US One America News
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/21752
 #EXTINF:-1,US Outdoor Channel
