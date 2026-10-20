@@ -92,8 +92,7 @@ http://45.5.118.152:8000/play/a03g/index.m3u8
 #EXTINF:-1, Multipremier
 http://45.5.118.152:8000/play/a096/index.m3u8
 #EXTINF:-1, 5mexicano
-http://200.57.28.141:8540/play/a0hk 
-
+http://200.108.187.214:8000/play/a0fl/index.m3u8
 #EXTINF:-1, Las Estrellas México
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1, KANAL D DRAMA
