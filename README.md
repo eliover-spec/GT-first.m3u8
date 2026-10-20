@@ -117,14 +117,29 @@ http://45.5.118.152:8000/play/a05j/index.m3u8
 http://45.5.118.152:8000/play/a01w/index.m3u8
 #EXTINF:-1, History Channel Lat
 http://45.5.118.152:8000/play/a04h/index.m3u8
-#EXTINF:-1, STAR Lat
-http://45.5.118.152:8000/play/a0a2/index.m3u8
-#EXTINF:-1, STAR CHANNEL HD Lat
+#EXTINF:-1, H2 Lat
+http://154.12.107.98:8000/play/a08y
+
+#EXTINF:-1, STAR CHANNEL Lat
 http://45.5.118.152:8000/play/a04m/index.m3u8
 #EXTINF:-1, Golden Lat
 http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1, Golden Premier
+http://154.12.107.98:8000/play/a0ob
+
+#EXTINF:-1, Golden Premier 2
+http://154.12.107.98:8000/play/a0oc 
+
 #EXTINF:-1, HBO HD Lat
 http://45.5.118.152:8000/play/a0bm/index.m3u8
+#EXTINF:-1, HBO 2 Lat
+http://200.57.28.141:8540/play/a013 
+#EXTINF:-1, HBO Family Lat
+http://200.57.28.141:8540/play/a015
+#EXTINF:-1, HBO PLUS LAT
+http://200.57.28.141:8540/play/a014 
+#EXTINF:-1, HBO XTREME LAT
+http://200.57.28.141:8540/play/a016
 #EXTINF:-1, SPACE Lat
 http://45.5.118.152:8000/play/a01t/index.m3u8
 #EXTINF:-1, CineMax Lat
@@ -165,6 +180,9 @@ http://45.5.118.152:8000/play/a03a/index.m3u8
 http://45.5.118.152:8000/play/a03r/index.m3u8
 #EXTINF:-1, DHE HD Lat
 http://45.5.118.152:8000/play/a02n/index.m3u8
+
+#EXTINF:-1, GAME TOON
+http://200.108.187.214:8000/play/a0kv/index.m3u8
 #EXTINF:-1 group-title="-",Azteca Deportes
 http://181.78.50.191:7225/play/a020
 #EXTINF:-1, Liga MX
