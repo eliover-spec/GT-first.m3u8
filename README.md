@@ -6,7 +6,8 @@ https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 #EXTINF:-1,CANAL 2 
 http://200.57.28.141:8540/play/a041
 
-#EXTINF:-1,CANAL 3 GT http://200.57.28.141:8540/play/a03z
+#EXTINF:-1,CANAL 3 EL SUPER CANAL
+http://200.57.28.141:8540/play/a03z
 
 #EXTINF:-1,CANAL 4 ESA 
 http://200.57.28.141:8540/play/a040
