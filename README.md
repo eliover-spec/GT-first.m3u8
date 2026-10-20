@@ -278,7 +278,7 @@ http://168.228.44.241:9997/play/a04c/index.m3u8
 #EXTINF:-1 group-title="-",TELEMUNDO INTERNACIONAL 
 http://45.5.118.152:8000/play/a02j/index.m3u8
 #EXTINF:-1, TELEMUNDO Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_240.m3u8
 #EXTINF:-1, TELEMUNDO 51 MIAMI
 http://nocable.cc:8080/1017@sbm.com/8080@4021/56410
 #EXTINF:-1,US Latin Galavision
