@@ -76,6 +76,41 @@ https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1, 3abn Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids LAT
+http://181.78.50.191:7225/play/a00p
+ 
+#EXTINF:-1 group-title="-", Tooncast LAT
+http://45.5.118.152:8000/play/a048/index.m3u8
+ 
+#EXTINF:-1 group-title="-", CARTOON NETWORK LAT
+http://45.5.118.152:8000/play/a0bl/index.m3u8
+ 
+#EXTINF:-1 group-title="-", BabyTV LAT
+http://181.189.142.237:40000/play/a035
+ 
+
+#EXTINF:0,BABYFIRST 
+http://200.57.28.141:8540/play/a03b 
+ 
+#EXTINF:-1 group-title="-", Disney Channel LAT
+http://190.14.10.19:16000/play/a06z/index.m3u8?hls
+ 
+#EXTINF:-1 group-title="-", Disney JR LAT SPA
+http://45.5.118.152:8000/play/a01n/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title="-", NICKELODEON LAT
+http://179.60.224.196:8000/play/a0e9/index.m3u8?hls
+ 
+#EXTINF:-1 group-title="-", Nick Jr. Lat
+http://190.60.46.228:8888/play/a02v/index.m3u8
+ 
+#EXTINF:-1 group-title="-", ANIMASH LAT
+http://38.210.105.10:8000/play/a07p/index.m3u8
+ 
+#EXTINF:-1 group-title="-", Cartoonito LAT
+http://179.60.224.196:8000/play/a0ee/index.m3u8?hls
+
 #EXTINF:-1 group-title="-", Distrito Comedia
 http://45.186.106.207:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="-", A+ Guate 
