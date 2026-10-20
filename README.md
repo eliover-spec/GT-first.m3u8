@@ -215,6 +215,13 @@ http://45.5.118.152:8000/play/a03a/index.m3u8
 http://45.5.118.152:8000/play/a03r/index.m3u8
 #EXTINF:-1, DHE HD Lat
 http://45.5.118.152:8000/play/a02n/index.m3u8
+#EXTINF:-1,TOP Barça Spain
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, Real Madrid TV SPA
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1, Real Madrid TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1, GAME TOON
 http://200.108.187.214:8000/play/a0kv/index.m3u8
