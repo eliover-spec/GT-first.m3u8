@@ -253,8 +253,15 @@ http://45.5.118.152:8000/play/a08r/index.m3u8
 http://200.57.28.141:8540/play/a03p
 #EXTINF:-1,CONCERT CHANNEL 
 http://200.57.28.141:8540/play/a05q
-#EXTINF:-1, ROCK TV
-http://45.5.118.152:8000/play/a03h/index.m3u8
+#EXTINF:-1,mb Dance
+http://88.212.15.93:80/live/mb_dance/index.m3u8
+#EXTINF:-1,mb Setzy
+http://88.212.15.93:80/live/mb_sexy/index.m3u8
+
+#EXTINF:-1,mb Hits
+http://88.212.15.93:80/live/mb_hits/index.m3u8
+#EXTINF:-1,mb Classic
+http://88.212.15.93:80/live/mb_classic/index.m3u8
 #EXTINF:-1,5.Star.Max 
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1,USA: ABC
