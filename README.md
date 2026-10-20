@@ -289,6 +289,8 @@ http://200.57.28.141:8540/play/a0ms
 
 #EXTINF:-1,US Univision (East)
 http://nocable.cc:8080/1017@sbm.com/8080@4021/15336
+#EXTINF:-1, MTV Latin America
+https://streaming.onnethn.com/MTV/playlist.m3u8
 #EXTINF:-1 group-title="-", CALI TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="-", BANDA MAX
