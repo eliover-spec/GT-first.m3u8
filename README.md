@@ -360,7 +360,7 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/46720
 #EXTINF:-1,US Discovery Channel East 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9811
 #EXTINF:-1,USA: DISCOVERY FAMILY
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/10538
+http://nocable.cc:8080/1017@sbm.com/8080@4021/10538
 #EXTINF:-1,USA: Discovery Life HD
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9861
 #EXTINF:-1,US Discovery Science 
