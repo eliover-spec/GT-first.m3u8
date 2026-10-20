@@ -42,8 +42,8 @@ http://181.78.211.244:8005/play/a04m/index.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1,A3series 
 http://154.12.107.98:8000/play/a013
-#EXTINF:-1,AZTECA A+ 
-http://200.57.28.141:8540/play/a0hj
+#EXTINF:-1, COLOR VISION GUA 
+http://200.57.28.141:8540/play/a046
 #EXTINF:-1,CANAL ANTIGUA 
 http://200.57.28.141:8540/play/a03w
 #EXTINF:-1,CANAL 22 
@@ -62,8 +62,7 @@ https://ch1-c27.duin.dev/hls/stream.m3u8
 https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1, AmigosTV GT
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1, COLOR VISION GUA 
-http://200.57.28.141:8540/play/a046
+
 
 #EXTINF:-1 group-title="-", 3ABN LATINO
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
