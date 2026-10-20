@@ -84,7 +84,7 @@ http://45.5.117.57:8200/play/a0e6/index.m3u8
 #EXTINF:-1, Canal Azteca - GUA
 http://45.5.118.152:8000/play/a03v/index.m3u8
 #EXTINF:-1, AZTECA 7
-http://200.57.28.141:8540/play/a0hi
+http://200.108.187.214:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1, El Gourmet
 http://45.5.118.152:8000/play/a03g/index.m3u8
