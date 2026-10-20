@@ -316,10 +316,8 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://nocable.cc:8080/1017@sbm.com/8080@4021/22990
 #EXTINF:-1,US abc7 (WLS) Chicago 
 http://nocable.cc:8080/1017@sbm.com/8080@4021/121665
-#EXTINF:-1, CA | Los Angeles | ABC (KABC) 
-http://nocable.cc:8080/1017@sbm.com/8080@4021/324431
-#EXTINF:-1, US abc 8 (WFAA) Dallas
-http://nocable.cc:8080/1017@sbm.com/8080@4021/121138
+
+
 #EXTINF:-1,US abc 7 (WABC) New York
 http://nocable.cc:8080/1017@sbm.com/8080@4021/324627
 #EXTINF:-1,USA: A&E
