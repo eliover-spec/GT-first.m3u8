@@ -125,8 +125,7 @@ http://200.108.187.214:8000/play/a0fm/index.m3u8
 
 #EXTINF:-1, El Gourmet
 http://45.5.118.152:8000/play/a03g/index.m3u8
-#EXTINF:-1, Multipremier
-http://45.5.118.152:8000/play/a096/index.m3u8
+
 
 #EXTINF:-1, 5mexicano
 http://200.108.187.214:8000/play/a0fl/index.m3u8
@@ -139,8 +138,8 @@ http://168.228.44.241:9997/play/a04q/index.m3u8
 http://45.5.118.152:8000/play/a08p/index.m3u8
 #EXTINF:-1, Pasiones HD
 http://45.5.118.152:8000/play/a06d/index.m3u8
-#EXTINF:-1, TCM Lat
-http://45.5.118.152:8000/play/a03q/index.m3u8
+#EXTINF:-1, AMC Series 
+http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1, RCN Novelas
 http://45.5.118.152:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="-",TNT Novelas
@@ -171,10 +170,10 @@ http://nocable.cc:8080/1017@sbm.com/8080@4021/15336
 http://45.5.118.152:8000/play/a08w/index.m3u8
 #EXTINF:-1, TNT Series Lat
 http://45.5.118.152:8000/play/a01u/index.m3u8
-#EXTINF:-1, Discovery Home & Health Lat
-http://45.5.118.152:8000/play/a086/index.m3u8
-#EXTINF:-1, Mas Chic
-http://45.171.64.30:6060/play/a005/index.m3u8
+
+
+
+
 #EXTINF:-1, Film & arts HD Lat
 http://45.5.118.152:8000/play/a09n/index.m3u8
 
@@ -189,10 +188,18 @@ http://45.5.118.152:8000/play/a04p/index.m3u8
 http://45.5.118.152:8000/play/a05t/index.m3u8
 #EXTINF:-1, DE PELICULA
 http://45.5.118.152:8000/play/a089/index.m3u8
-#EXTINF:-1, Discovery Channel Lat
-http://179.60.224.196:8000/play/a0ex/index.m3u8?hls
+#EXTINF:-1, EURO Channel
+http://45.5.118.152:8000/play/a03e/index.m3u8
+
 #EXTINF:-1, Animal Planet HD Lat
 http://45.5.118.152:8000/play/a09l/index.m3u8
+#EXTINF:-1, Discovery Channel Lat
+http://179.60.224.196:8000/play/a0ex/index.m3u8?hls
+#EXTINF:-1, Discovery Home & Health Lat
+http://45.5.118.152:8000/play/a086/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://154.12.107.98:8000/play/a0ad
+
 #EXTINF:-1, Discovery Turbo Lat
 http://45.5.118.152:8000/play/a05j/index.m3u8
 #EXTINF:-1, National Geographic Lat
@@ -203,7 +210,8 @@ http://45.5.118.152:8000/play/a04h/index.m3u8
 http://154.12.107.98:8000/play/a08y
 #EXTINF:-1,Wild Earth
 https://wildearth-xumo.amagi.tv/master.m3u8
-
+#EXTINF:-1, ID Lat
+http://45.5.118.152:8000/play/a05l/index.m3u8
 #EXTINF:-1, STAR CHANNEL Lat
 http://45.5.118.152:8000/play/a04m/index.m3u8
 #EXTINF:-1, Golden Lat
@@ -228,20 +236,39 @@ http://200.57.28.141:8540/play/a016
 http://45.5.118.152:8000/play/a01t/index.m3u8
 #EXTINF:-1, CineMax Lat
 http://45.5.118.152:8000/play/a07a/index.m3u8
+#EXTINF:-1, Multipremier
+http://45.5.118.152:8000/play/a096/index.m3u8
+#EXTINF:-1, TCM Lat
+http://45.5.118.152:8000/play/a03q/index.m3u8
 #EXTINF:-1, TNT Lat
 http://45.5.118.152:8000/play/a021/index.m3u8
+#EXTINF:-1, Sony HD
+http://154.12.107.98:8000/play/a0bv
 #EXTINF:-1, Sony Movies HD Lat
 http://45.5.118.152:8000/play/a02m/index.m3u8
 
 #EXTINF:-1, FX HD Lat
 http://45.5.118.152:8000/play/a0c8/index.m3u8
-#EXTINF:-1, EURO Channel
-http://45.5.118.152:8000/play/a03e/index.m3u8
-#EXTINF:-1, ID Lat
-http://45.5.118.152:8000/play/a05l/index.m3u8
-
-#EXTINF:-1, (13 latina)
-http://45.5.118.152:8000/play/a03a/index.m3u8
+#EXTINF:-1,Universal Cinema HD
+http://154.12.107.98:8000/play/a0aa
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://154.12.107.98:8000/play/a0ci
+#EXTINF:-1,UNIVERSAL CRIME HD 
+http://154.12.107.98:8000/play/a0ch 
+#EXTINF:-1,Universal Premier HD 
+http://154.12.107.98:8000/play/a0cf 
+#EXTINF:-1,Universal Reality HD 
+http://154.12.107.98:8000/play/a0cg 
+#EXTINF:-1,Universal TV 
+http://154.12.107.98:8000/play/a07r 
+#EXTINF:-1,WARNER HD 
+http://154.12.107.98:8000/play/a0bu
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://45.5.118.152:8000/play/a02d/index.m3u8
+#EXTINF:-1,5.Star.Max 
+http://nocable.cc:8080/1017@sbm.com/8080@4021/13381
+#EXTINF:-1,Star TVE HD
+http://154.12.107.98:8000/play/a0cs
 #EXTINF:-1, Multicinema
 http://45.5.118.152:8000/play/a03r/index.m3u8
 #EXTINF:-1, DHE HD Lat
@@ -299,9 +326,9 @@ http://45.5.118.152:8000/play/a092/index.m3u8
 http://45.5.118.152:8000/play/a003/index.m3u8
 
 
-#EXTINF:-1 group-title="-",Studio Universal HD
-http://45.5.118.152:8000/play/a02d/index.m3u8
 
+#EXTINF:-1, (13 latina)
+http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1, MTV Latin America
 https://streaming.onnethn.com/MTV/playlist.m3u8
 #EXTINF:-1 group-title="-", CALI TV
@@ -323,8 +350,7 @@ http://88.212.15.93:80/live/mb_sexy/index.m3u8
 http://88.212.15.93:80/live/mb_hits/index.m3u8
 #EXTINF:-1,mb Classic
 http://88.212.15.93:80/live/mb_classic/index.m3u8
-#EXTINF:-1,5.Star.Max 
-http://nocable.cc:8080/1017@sbm.com/8080@4021/13381
+
 #EXTINF:-1,USA: ABC
 http://nocable.cc:8080/1017@sbm.com/8080@4021/22990
 #EXTINF:-1,US abc7 (WLS) Chicago 
