@@ -42,7 +42,7 @@ http://181.78.211.244:8005/play/a04m/index.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1,A3series 
 http://154.12.107.98:8000/play/a013
-#EXTINF:-1, COLOR VISION GUA 
+#EXTINF:-1, COLOR VISION 
 http://200.57.28.141:8540/play/a046
 #EXTINF:-1,CANAL ANTIGUA 
 http://200.57.28.141:8540/play/a03w
@@ -111,7 +111,10 @@ http://38.210.105.10:8000/play/a07p/index.m3u8
  
 #EXTINF:-1 group-title="-", Cartoonito LAT
 http://179.60.224.196:8000/play/a0ee/index.m3u8?hls
-
+#EXTINF:-1, 5mexicano
+http://200.108.187.214:8000/play/a0fl/index.m3u8
+#EXTINF:-1, AZTECA 7
+http://200.108.187.214:8000/play/a0fm/index.m3u8
 #EXTINF:-1 group-title="-", Distrito Comedia
 http://45.186.106.207:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="-", A+ Guate 
@@ -120,15 +123,20 @@ http://45.5.117.57:8200/play/a0e6/index.m3u8
 #EXTINF:-1, Canal Azteca - GUA
 http://45.5.118.152:8000/play/a03v/index.m3u8
 
-#EXTINF:-1, AZTECA 7
-http://200.108.187.214:8000/play/a0fm/index.m3u8
-
 #EXTINF:-1, El Gourmet
 http://45.5.118.152:8000/play/a03g/index.m3u8
+#EXTINF:11,Golf Channel HD 
+http://154.12.107.98:8000/play/a0ct
+#EXTINF:-1,HGTV 
+http://154.12.107.98:8000/play/a088
+#EXTINF:-1,Hola TV HD 
+http://154.12.107.98:8000/play/a0cc 
+#EXTINF:-1,HTV 
+http://154.12.107.98:8000/play/a0j1 
 
 
-#EXTINF:-1, 5mexicano
-http://200.108.187.214:8000/play/a0fl/index.m3u8
+
+
 
 #EXTINF:-1, Las Estrellas México
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -138,8 +146,7 @@ http://168.228.44.241:9997/play/a04q/index.m3u8
 http://45.5.118.152:8000/play/a08p/index.m3u8
 #EXTINF:-1, Pasiones HD
 http://45.5.118.152:8000/play/a06d/index.m3u8
-#EXTINF:-1, AMC Series 
-http://45.171.64.30:6060/play/a005/index.m3u8
+
 #EXTINF:-1, RCN Novelas
 http://45.5.118.152:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="-",TNT Novelas
@@ -168,6 +175,8 @@ http://200.57.28.141:8540/play/a0ms
 http://nocable.cc:8080/1017@sbm.com/8080@4021/15336
 #EXTINF:-1, TELESUR
 http://45.5.118.152:8000/play/a08w/index.m3u8
+#EXTINF:-1, AMC Series 
+http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1, TNT Series Lat
 http://45.5.118.152:8000/play/a01u/index.m3u8
 
@@ -179,9 +188,9 @@ http://45.5.118.152:8000/play/a09n/index.m3u8
 
 #EXTINF:-1, CNNE
 http://45.5.118.152:8000/play/a023/index.m3u8
-#EXTINF:-1, Extra TV 42
-http://45.5.118.152:8000/play/a0be/index.m3u8
 
+#EXTINF:-111,AXN 
+http://154.12.107.98:8000/play/a09r 
 #EXTINF:-1, CINECANAL HD
 http://45.5.118.152:8000/play/a04p/index.m3u8
 #EXTINF:-1, Cine Latino
@@ -190,28 +199,38 @@ http://45.5.118.152:8000/play/a05t/index.m3u8
 http://45.5.118.152:8000/play/a089/index.m3u8
 #EXTINF:-1, EURO Channel
 http://45.5.118.152:8000/play/a03e/index.m3u8
+#EXTINF:-1,E! HD 
+http://154.12.107.98:8000/play/a0ai 
 
+#EXTINF:-1, Extra TV 42
+http://45.5.118.152:8000/play/a0be/index.m3u8
 #EXTINF:-1, Animal Planet HD Lat
 http://45.5.118.152:8000/play/a09l/index.m3u8
 #EXTINF:-1, Discovery Channel Lat
 http://179.60.224.196:8000/play/a0ex/index.m3u8?hls
 #EXTINF:-1, Discovery Home & Health Lat
 http://45.5.118.152:8000/play/a086/index.m3u8
+#EXTINF:-1, Discovery ID Lat
+http://45.5.118.152:8000/play/a05l/index.m3u8
+#EXTINF:-1,Discovery Science 
+http://154.12.107.98:8000/play/a089 
 #EXTINF:-1,Discovery Theater HD
 http://154.12.107.98:8000/play/a0ad
 
 #EXTINF:-1, Discovery Turbo Lat
 http://45.5.118.152:8000/play/a05j/index.m3u8
-#EXTINF:-1, National Geographic Lat
-http://45.5.118.152:8000/play/a01w/index.m3u8
+
 #EXTINF:-1, History Channel Lat
 http://45.5.118.152:8000/play/a04h/index.m3u8
 #EXTINF:-1, H2 Lat
 http://154.12.107.98:8000/play/a08y
+#EXTINF:-1, National Geographic Lat
+http://45.5.118.152:8000/play/a01w/index.m3u8
+#EXTINF:-1,Natgeo Lat
+http://154.12.107.98:8000/play/a0a1 
 #EXTINF:-1,Wild Earth
 https://wildearth-xumo.amagi.tv/master.m3u8
-#EXTINF:-1, ID Lat
-http://45.5.118.152:8000/play/a05l/index.m3u8
+
 #EXTINF:-1, STAR CHANNEL Lat
 http://45.5.118.152:8000/play/a04m/index.m3u8
 #EXTINF:-1, Golden Lat
