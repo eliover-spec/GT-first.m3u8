@@ -63,7 +63,8 @@ https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1, AmigosTV GT
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 
-
+#EXTINF:-1 group-title="-",La voz de Maria
+http://45.5.118.152:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="-", 3ABN LATINO
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1,3ABN International
@@ -136,6 +137,52 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://168.228.44.241:9997/play/a04q/index.m3u8
 #EXTINF:-1 group-title="-", Telenovelas
 http://45.5.118.152:8000/play/a08p/index.m3u8
+#EXTINF:-1, Pasiones HD
+http://45.5.118.152:8000/play/a06d/index.m3u8
+#EXTINF:-1, TCM Lat
+http://45.5.118.152:8000/play/a03q/index.m3u8
+#EXTINF:-1, RCN Novelas
+http://45.5.118.152:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas
+http://45.5.118.152:8000/play/a01v/index.m3u8
+#EXTINF:-1,US ESTRELLA TV
+http://168.228.44.241:9997/play/a04c/index.m3u8
+#EXTINF:-1 group-title="-",TELEMUNDO INTERNACIONAL 
+http://45.5.118.152:8000/play/a02j/index.m3u8
+#EXTINF:-1, TELEMUNDO Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
+#EXTINF:-1, TELEMUNDO 51 MIAMI
+http://nocable.cc:8080/1017@sbm.com/8080@4021/56410
+
+#EXTINF:-1,US Telemundo (KDEN) Parker
+http://nocable.cc:8080/1017@sbm.com/8080@4021/120665
+
+
+
+#EXTINF:-1,US Latin Galavision
+http://nocable.cc:8080/1017@sbm.com/8080@4021/58770
+
+#EXTINF:-1,US Latin UNICABLE
+http://200.57.28.141:8540/play/a0ms 
+
+#EXTINF:-1,US Univision (East)
+http://nocable.cc:8080/1017@sbm.com/8080@4021/15336
+#EXTINF:-1, TELESUR
+http://45.5.118.152:8000/play/a08w/index.m3u8
+#EXTINF:-1, TNT Series Lat
+http://45.5.118.152:8000/play/a01u/index.m3u8
+#EXTINF:-1, Discovery Home & Health Lat
+http://45.5.118.152:8000/play/a086/index.m3u8
+#EXTINF:-1, Mas Chic
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1, Film & arts HD Lat
+http://45.5.118.152:8000/play/a09n/index.m3u8
+
+#EXTINF:-1, CNNE
+http://45.5.118.152:8000/play/a023/index.m3u8
+#EXTINF:-1, Extra TV 42
+http://45.5.118.152:8000/play/a0be/index.m3u8
+
 #EXTINF:-1, CINECANAL HD
 http://45.5.118.152:8000/play/a04p/index.m3u8
 #EXTINF:-1, Cine Latino
@@ -185,32 +232,14 @@ http://45.5.118.152:8000/play/a07a/index.m3u8
 http://45.5.118.152:8000/play/a021/index.m3u8
 #EXTINF:-1, Sony Movies HD Lat
 http://45.5.118.152:8000/play/a02m/index.m3u8
-#EXTINF:-1, Pasiones HD
-http://45.5.118.152:8000/play/a06d/index.m3u8
-#EXTINF:-1, TCM Lat
-http://45.5.118.152:8000/play/a03q/index.m3u8
-#EXTINF:-1, RCN Novelas
-http://45.5.118.152:8000/play/a03d/index.m3u8
-#EXTINF:-1, TELESUR
-http://45.5.118.152:8000/play/a08w/index.m3u8
-#EXTINF:-1, TNT Series Lat
-http://45.5.118.152:8000/play/a01u/index.m3u8
-#EXTINF:-1, CNNE
-http://45.5.118.152:8000/play/a023/index.m3u8
-#EXTINF:-1, Extra TV 42
-http://45.5.118.152:8000/play/a0be/index.m3u8
+
 #EXTINF:-1, FX HD Lat
 http://45.5.118.152:8000/play/a0c8/index.m3u8
 #EXTINF:-1, EURO Channel
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1, ID Lat
 http://45.5.118.152:8000/play/a05l/index.m3u8
-#EXTINF:-1, Discovery Home & Health Lat
-http://45.5.118.152:8000/play/a086/index.m3u8
-#EXTINF:-1, Mas Chic
-http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1, Film & arts HD Lat
-http://45.5.118.152:8000/play/a09n/index.m3u8
+
 #EXTINF:-1, (13 latina)
 http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1, Multicinema
@@ -268,29 +297,11 @@ http://45.5.118.152:8000/play/a004/index.m3u8
 http://45.5.118.152:8000/play/a092/index.m3u8
 #EXTINF:-1 group-title="-",Lat ESPN 6
 http://45.5.118.152:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="-",La voz de Maria
-http://45.5.118.152:8000/play/a05m/index.m3u8
+
 
 #EXTINF:-1 group-title="-",Studio Universal HD
 http://45.5.118.152:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="-",TNT Novelas
-http://45.5.118.152:8000/play/a01v/index.m3u8
-#EXTINF:-1,US ESTRELLA TV
-http://168.228.44.241:9997/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",TELEMUNDO INTERNACIONAL 
-http://45.5.118.152:8000/play/a02j/index.m3u8
-#EXTINF:-1, TELEMUNDO Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
-#EXTINF:-1, TELEMUNDO 51 MIAMI
-http://nocable.cc:8080/1017@sbm.com/8080@4021/56410
-#EXTINF:-1,US Latin Galavision
-http://nocable.cc:8080/1017@sbm.com/8080@4021/58770
 
-#EXTINF:-1,US Latin UNICABLE
-http://200.57.28.141:8540/play/a0ms 
-
-#EXTINF:-1,US Univision (East)
-http://nocable.cc:8080/1017@sbm.com/8080@4021/15336
 #EXTINF:-1, MTV Latin America
 https://streaming.onnethn.com/MTV/playlist.m3u8
 #EXTINF:-1 group-title="-", CALI TV
