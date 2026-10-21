@@ -54,8 +54,9 @@ https://ddycmnicl95kp.cloudfront.net/live/by1ualyjwslr/master.m3u8
 http://200.57.28.141:8540/play/a019
 #EXTINF:-1,TVM25 - ESA 
 http://200.57.28.141:8540/play/a05c
-#EXTINF:-1,RCN - GUA 
-http://200.57.28.141:8540/play/a05a
+#EXTINF:-1,Canal 26 - Mexico
+https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
+
 #EXTINF:-1 group-title="-",CANAL 27 GT
 https://ch1-c27.duin.dev/hls/stream.m3u8
 #EXTINF:-1, Enlace USA
@@ -111,12 +112,16 @@ http://38.210.105.10:8000/play/a07p/index.m3u8
  
 #EXTINF:-1 group-title="-", Cartoonito LAT
 http://179.60.224.196:8000/play/a0ee/index.m3u8?hls
+#EXTINF:-1,La Red - GUA 
+http://200.57.28.141:8540/play/a05a
 #EXTINF:-1, 5mexicano
 http://200.108.187.214:8000/play/a0fl/index.m3u8
 #EXTINF:-1, AZTECA 7
 http://200.108.187.214:8000/play/a0fm/index.m3u8
 #EXTINF:-1 group-title="-", Distrito Comedia
 http://45.186.106.207:8000/play/a038/index.m3u8
+#EXTINF:-1, El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 group-title="-", A+ Guate 
 http://45.5.117.57:8200/play/a0e6/index.m3u8
 
