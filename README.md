@@ -231,6 +231,8 @@ https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/
 http://200.108.187.214:8000/play/a0kv/index.m3u8
 #EXTINF:-1 group-title="-",Azteca Deportes
 http://181.78.50.191:7225/play/a020
+#EXTINF:-1,Sky Sports Golf  
+http://nocable.cc:8080/1017@sbm.com/8080@4021/35240
 #EXTINF:-1, Liga MX
 http://45.228.234.62:8000/play/a00g/index.m3u8
 #EXTINF:-1, Eventos- SKY-TUDN Events
@@ -340,8 +342,7 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/17870
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/20180
 #EXTINF:-1,US Aspire (A)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/21927
-#EXTINF:-1,US AXS TV 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/48324
+
 #EXTINF:-1,USA: Baby First HD
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/58765
 #EXTINF:-1,US BBC America
@@ -444,8 +445,7 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/46699
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9240
 #EXTINF:-1,US GetTV 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/18366
-#EXTINF:-1,US Golf Channel 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/46728
+
 #EXTINF:-1,US Great American Country 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/17640
 #EXTINF:-1,US Grit TV
