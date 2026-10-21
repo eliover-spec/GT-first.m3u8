@@ -59,13 +59,22 @@ https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/pl
 
 #EXTINF:-1 group-title="-",CANAL 27 GT
 https://ch1-c27.duin.dev/hls/stream.m3u8
+#EXTINF:-1,Conectados con Dios
+https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1, Enlace USA
 https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1, AmigosTV GT
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1,MCN Television
+https://eu1.servers10.com:8081/8338/index.m3u8
+#EXTINF:-1,Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 
 #EXTINF:-1 group-title="-",La voz de Maria
 http://45.5.118.152:8000/play/a05m/index.m3u8
+#EXTINF:-1,Maria vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
 #EXTINF:-1 group-title="-", 3ABN LATINO
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1,3ABN International
@@ -112,16 +121,28 @@ http://38.210.105.10:8000/play/a07p/index.m3u8
  
 #EXTINF:-1 group-title="-", Cartoonito LAT
 http://179.60.224.196:8000/play/a0ee/index.m3u8?hls
+
+#EXTINF:-1,Sil TV
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+
 #EXTINF:-1,La Red - GUA 
 http://200.57.28.141:8540/play/a05a
 #EXTINF:-1, 5mexicano
 http://200.108.187.214:8000/play/a0fl/index.m3u8
 #EXTINF:-1, AZTECA 7
 http://200.108.187.214:8000/play/a0fm/index.m3u8
+#EXTINF:-1, c10 Chiapas XHTTG-TDT
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1, c10 Zacatecas
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 group-title="-", Distrito Comedia
 http://45.186.106.207:8000/play/a038/index.m3u8
 #EXTINF:-1, El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1,Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,Visión TV
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 group-title="-", A+ Guate 
 http://45.5.117.57:8200/play/a0e6/index.m3u8
 
@@ -202,6 +223,12 @@ http://45.5.118.152:8000/play/a04p/index.m3u8
 http://45.5.118.152:8000/play/a05t/index.m3u8
 #EXTINF:-1, DE PELICULA
 http://45.5.118.152:8000/play/a089/index.m3u8
+#EXTINF:-1,Golden MX
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1,Jalisciense
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1,LoboTv
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1, EURO Channel
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1,E! HD 
@@ -374,6 +401,15 @@ http://88.212.15.93:80/live/mb_sexy/index.m3u8
 http://88.212.15.93:80/live/mb_hits/index.m3u8
 #EXTINF:-1,mb Classic
 http://88.212.15.93:80/live/mb_classic/index.m3u8
+#EXTINF:-1,Vevo '70s & '80s
+https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
+
+#EXTINF:-1,Vevo '90s & '00s
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Vevo Hip Hop & R&B
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vevo Pop UK
+https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1,USA: ABC
 http://nocable.cc:8080/1017@sbm.com/8080@4021/22990
