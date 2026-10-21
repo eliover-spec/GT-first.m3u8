@@ -313,7 +313,7 @@ http://88.212.15.93:80/live/mb_hits/index.m3u8
 #EXTINF:-1,mb Classic
 http://88.212.15.93:80/live/mb_classic/index.m3u8
 #EXTINF:-1,5.Star.Max 
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+http://nocable.cc:8080/1017@sbm.com/8080@4021/13381
 #EXTINF:-1,USA: ABC
 http://nocable.cc:8080/1017@sbm.com/8080@4021/22990
 #EXTINF:-1,US abc7 (WLS) Chicago 
@@ -327,10 +327,8 @@ http://206.212.244.71:8080/1017@sbm.com/8080@4021/59056
 
 #EXTINF:-1,US ACC Network (A)
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/9273
-#EXTINF:-1,US ActionMAX (East) 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/21013
-#EXTINF:-1,Canada AMC 
-http://206.212.244.71:8080/1017@sbm.com/8080@4021/57376
+
+
 #EXTINF:-1,US AMC 
 http://206.212.244.71:8080/1017@sbm.com/8080@4021/18925
 #EXTINF:-1,US American Heroes Channel 
