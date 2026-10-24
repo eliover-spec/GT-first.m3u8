@@ -382,6 +382,9 @@ http://45.5.118.152:8000/play/a003/index.m3u8
 http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1, MTV Latin America
 https://streaming.onnethn.com/MTV/playlist.m3u8
+
+#EXTINF:-1,MTV
+http://190.108.91.206:9050/play/a03a/index.m3u8
 #EXTINF:-1 group-title="-", CALI TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="-", BANDA MAX
