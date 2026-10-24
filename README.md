@@ -144,7 +144,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1,Visión TV
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 group-title="-", A+ Guate 
-http://45.5.117.57:8200/play/a0e6/index.m3u8
+https://guastream.com:3525/stream/play.m3u8
 
 #EXTINF:-1, Canal Azteca - GUA
 http://45.5.118.152:8000/play/a03v/index.m3u8
