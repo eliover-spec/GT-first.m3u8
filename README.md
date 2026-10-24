@@ -169,7 +169,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1, KANAL D DRAMA
 http://168.228.44.241:9997/play/a04q/index.m3u8
 #EXTINF:-1 group-title="-", Telenovelas
-http://45.5.118.152:8000/play/a08p/index.m3u8
+http://152.231.29.130:8000/play/a0dy/index.m3u8
+
 #EXTINF:-1, Pasiones HD
 http://45.5.118.152:8000/play/a06d/index.m3u8
 
