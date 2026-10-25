@@ -362,6 +362,11 @@ http://45.5.118.152:8000/play/a08n/index.m3u8
 http://45.171.64.30:2000/play/a053/index.m3u8?hls
 #EXTINF:-1, Claro Sports 2
 http://45.5.118.152:8000/play/a0ah/index.m3u8
+
+#EXTINF:-1, Liga Movistar
+http://38.188.186.47:4000/play/Ji198/index.m3u8
+
+
 #EXTINF:-1, ESPN
 http://45.5.118.152:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="-", Lat ESPN HD
