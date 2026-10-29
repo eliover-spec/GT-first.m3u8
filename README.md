@@ -335,6 +335,12 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1, Red Bull TV ES
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 
+#EXTINF:-1, Red Bull Australia
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1, Red Bull
+https://play.redbull.com/main/v1/rbtv/es_CL/cl/personal_computer/http/rrn:content:video-channels:f4aa4fe4-5ce6-4b1c-a60b-abc6f21f16d0.m3u8?device_group=group_5
+
 #EXTINF:-1, GAME TOON
 http://200.108.187.214:8000/play/a0kv/index.m3u8
 #EXTINF:-1 group-title="-",Azteca Deportes
