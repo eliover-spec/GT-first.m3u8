@@ -351,6 +351,10 @@ http://nocable.cc:8080/1017@sbm.com/8080@4021/35240
 http://45.228.234.62:8000/play/a00g/index.m3u8
 #EXTINF:-1, Eventos- SKY-TUDN Events
 http://45.5.118.152:8000/play/a08f/index.m3u8
+
+#EXTINF:-1, Eventos-Tigo Sports/Fox Sports GT
+http://45.228.233.222:8000/play/a02v
+
 #EXTINF:-1, FOX 
 http://190.61.101.11:7050/play/a0a4/index.m3u8?hls
 #EXTINF:-1, FOX Costa Rica
