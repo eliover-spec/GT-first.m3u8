@@ -192,15 +192,10 @@ http://nocable.cc:8080/1017@sbm.com/8080@4021/120691
 #EXTINF:-1,US Telemundo (KUTU) Tulsa 
 http://nocable.cc:8080/1017@sbm.com/8080@4021/120768
 
-#EXTINF:-1,US Telemundo (WZDC( Leesburg (H)
-htp://nocable.cc:8080/1017@sbm.com/8080@4021/120833
-
 
 #EXTINF:-1,US Latin Galavision
 http://nocable.cc:8080/1017@sbm.com/8080@4021/58770
 
-#EXTINF:-1,US Latin UNICABLE
-http://200.57.28.141:8540/play/a0ms 
 
 #EXTINF:-1,US Univision (East)
 http://nocable.cc:8080/1017@sbm.com/8080@4021/15336
@@ -214,8 +209,7 @@ http://45.5.118.152:8000/play/a01u/index.m3u8
 
 
 
-#EXTINF:-1, Film & arts HD Lat
-http://45.5.118.152:8000/play/a09n/index.m3u8
+
 
 #EXTINF:-1, CNNE
 http://45.5.118.152:8000/play/a023/index.m3u8
@@ -230,7 +224,7 @@ http://45.5.118.152:8000/play/a05t/index.m3u8
 http://45.5.118.152:8000/play/a089/index.m3u8
 #EXTINF:-1,Golden MX
 https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
-#EXTINF:-1,Jalisciense
+#EXTINF:-1,JaliscoTV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1,LoboTv
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
@@ -291,13 +285,13 @@ http://200.57.28.141:8540/play/a016
 #EXTINF:-1, SPACE Lat
 http://45.5.118.152:8000/play/a01t/index.m3u8
 #EXTINF:-1, CineMax Lat
-http://45.5.118.152:8000/play/a07a/index.m3u8
+http://200.57.28.141:8540/play/a05u
 #EXTINF:-1, Multipremier
 http://45.5.118.152:8000/play/a096/index.m3u8
 #EXTINF:-1, TCM Lat
 http://45.5.118.152:8000/play/a03q/index.m3u8
 #EXTINF:-1, TNT Lat
-http://45.5.118.152:8000/play/a021/index.m3u8
+http://200.57.28.141:8540/play/a020
 #EXTINF:-1, Sony HD
 http://154.12.107.98:8000/play/a0bv
 #EXTINF:-1, Sony Movies HD Lat
@@ -347,8 +341,8 @@ https://play.redbull.com/main/v1/rbtv/es_CL/cl/personal_computer/http/rrn:conten
 
 #EXTINF:-1, GAME TOON
 http://200.108.187.214:8000/play/a0kv/index.m3u8
-#EXTINF:-1 group-title="-",Azteca Deportes
-http://181.78.50.191:7225/play/a020
+
+
 #EXTINF:-1,Sky Sports Golf  
 http://nocable.cc:8080/1017@sbm.com/8080@4021/35240
 #EXTINF:-1, Liga MX
@@ -375,14 +369,11 @@ http://45.5.118.152:8000/play/a08n/index.m3u8
 #EXTINF:-1, CLARO Sports
 http://45.171.64.30:2000/play/a053/index.m3u8?hls
 #EXTINF:-1, Claro Sports 2
-http://45.5.118.152:8000/play/a0ah/index.m3u8
+http://200.57.28.141:8540/play/a00z
 
 #EXTINF:-1, Liga Movistar
 http://38.188.186.47:4000/play/Ji198/index.m3u8
 
-
-#EXTINF:-1, ESPN
-http://45.5.118.152:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="-", Lat ESPN HD
 http://45.5.118.152:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="-", Lat ESPN 2
