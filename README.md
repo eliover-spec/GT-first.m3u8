@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:-1, Guadalupe Media Belize
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 
-#EXTINF:-1, La 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
+#EXTINF:-1,CANAL 2 
+http://200.57.28.141:8540/play/a041
 
 
 #EXTINF:-1,CANAL 3 EL SUPER CANAL
@@ -69,11 +69,7 @@ http://200.57.28.141:8540/play/a025
 http://45.5.118.152:8000/play/a05m/index.m3u8
 #EXTINF:-1,Maria vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1, Guadalupe Media Belize
-https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 
-#EXTINF:-1,CANAL 2 
-http://200.57.28.141:8540/play/a041
 #EXTINF:-1 group-title="-", 3ABN LATINO
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1,3ABN International
