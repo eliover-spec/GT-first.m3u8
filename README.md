@@ -82,10 +82,11 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1, 3abn Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="-",Discovery Kids LAT
-http://181.78.50.191:7225/play/a00p
+http://200.57.28.141:8540/play/a05f
+
  
 #EXTINF:-1 group-title="-", Tooncast LAT
-http://45.5.118.152:8000/play/a048/index.m3u8
+http://200.57.28.141:8540/play/a049
  
 #EXTINF:-1 group-title="-", CARTOON NETWORK LAT
 http://45.5.118.152:8000/play/a0bl/index.m3u8
@@ -116,29 +117,33 @@ http://38.210.105.10:8000/play/a07p/index.m3u8
 #EXTINF:-1 group-title="-", Cartoonito LAT
 http://179.60.224.196:8000/play/a0ee/index.m3u8?hls
 
-#EXTINF:-1,Sil TV
-https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+
 
 #EXTINF:-1,La Red - GUA 
 http://200.57.28.141:8540/play/a05a
-#EXTINF:-1, 5mexicano
-http://200.108.187.214:8000/play/a0fl/index.m3u8
-#EXTINF:-1, AZTECA 7
-http://200.108.187.214:8000/play/a0fm/index.m3u8
+
 #EXTINF:-1, c10 Chiapas XHTTG-TDT
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1, c10 Zacatecas
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 group-title="-", Distrito Comedia
 http://45.186.106.207:8000/play/a038/index.m3u8
-#EXTINF:-1, El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
 #EXTINF:-1,Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1,Visión TV
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
+#EXTINF:-1, 5mexicano
+http://200.108.187.214:8000/play/a0fl/index.m3u8
+#EXTINF:-1, AZTECA 7
+http://200.108.187.214:8000/play/a0fm/index.m3u8
+
+#EXTINF:-1 group-title="-", A+ México 
+http://200.57.28.141:8540/play/a0hj
+
 #EXTINF:-1 group-title="-", A+ Guate 
-https://guastream.com:3525/stream/play.m3u8
+http://179.60.224.196:8000/play/a0e2/index.m3u8
 
 #EXTINF:-1, Canal Azteca - GUA
 http://45.5.118.152:8000/play/a03v/index.m3u8
@@ -181,9 +186,14 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_5
 #EXTINF:-1, TELEMUNDO 51 MIAMI
 http://nocable.cc:8080/1017@sbm.com/8080@4021/56410
 
-#EXTINF:-1,US Telemundo (KDEN) Parker
-http://nocable.cc:8080/1017@sbm.com/8080@4021/120665
+#EXTINF:-1,US Telemundo (WSNS) Chicago
+http://nocable.cc:8080/1017@sbm.com/8080@4021/120691
 
+#EXTINF:-1,US Telemundo (KUTU) Tulsa 
+http://nocable.cc:8080/1017@sbm.com/8080@4021/120768
+
+#EXTINF:-1,US Telemundo (WZDC( Leesburg (H)
+htp://nocable.cc:8080/1017@sbm.com/8080@4021/120833
 
 
 #EXTINF:-1,US Latin Galavision
