@@ -61,14 +61,8 @@ https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/pl
 https://ch1-c27.duin.dev/hls/stream.m3u8
 #EXTINF:-1,Conectados con Dios
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1, Enlace USA
-https://livecdnusa.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1, AmigosTV GT
-https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1,MCN Television
-https://eu1.servers10.com:8081/8338/index.m3u8
-#EXTINF:-1,Rhema TV
-https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:-1, Enlace
+http://200.57.28.141:8540/play/a025
 
 #EXTINF:-1 group-title="-",La voz de Maria
 http://45.5.118.152:8000/play/a05m/index.m3u8
